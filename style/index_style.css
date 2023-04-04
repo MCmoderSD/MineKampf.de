@@ -1,0 +1,54 @@
+::-webkit-scrollbar {
+display: none;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    color: #fff;
+    overflow: hidden;
+}
+
+nav {
+    position: fixed;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+    color: #fff;
+    font-size: 2rem;
+}
+
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.headline {
+    font-size: 3em;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.backgroundVideo {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    background-color:rgba(10,10,10,0.8);
+}
+
+.mainVideo {
+    position: fixed;
+    Left: 37.5%;
+}
