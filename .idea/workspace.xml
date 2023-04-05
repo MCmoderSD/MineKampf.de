@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bec7e38-766c-46a4-ac28-0dace091939c" name="Changes" comment=".gitignore">
+    <list default="true" id="3bec7e38-766c-46a4-ac28-0dace091939c" name="Changes" comment="links">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,10 @@
       <workItem from="1680608982256" duration="4532000" />
       <workItem from="1680613539755" duration="279000" />
       <workItem from="1680613835961" duration="204000" />
-      <workItem from="1680614076577" duration="114000" />
+      <workItem from="1680614076577" duration="325000" />
+      <workItem from="1680621807112" duration="4000" />
+      <workItem from="1680621823504" duration="38000" />
+      <workItem from="1680699529225" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="README.md">
       <created>1680613400517</created>
@@ -90,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680613764916</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="links">
+      <created>1680614201080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680614201080</updated>
+    </task>
+    <task id="LOCAL-00005" summary="links">
+      <created>1680614236710</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680614236710</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README.md" />
     <MESSAGE value=".gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
+    <MESSAGE value="links" />
+    <option name="LAST_COMMIT_MESSAGE" value="links" />
   </component>
 </project>
