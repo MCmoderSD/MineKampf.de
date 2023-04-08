@@ -27,6 +27,20 @@ nav a {
     font-size: 2rem;
 }
 
+.satire {
+    position: fixed;
+    top: 20%;
+    text-decoration: none;
+    color: #fff;
+    font-size: 9rem;
+    opacity: 0;
+}
+
+.satire:hover {
+    opacity: 1;
+    transition: all 0.5s ease;
+}
+
 .headline {
     font-size: 3em;
     font-weight: 700;
