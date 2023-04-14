@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bec7e38-766c-46a4-ac28-0dace091939c" name="Changes" comment="Cockpit &amp; Satire">
-      <change afterPath="$PROJECT_DIR$/minekampf.de.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3bec7e38-766c-46a4-ac28-0dace091939c" name="Changes" comment="Config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +78,7 @@
       <workItem from="1680964578320" duration="184000" />
       <workItem from="1680965203592" duration="68000" />
       <workItem from="1681325662918" duration="7000" />
-      <workItem from="1681440370440" duration="305000" />
+      <workItem from="1681440370440" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="README.md">
       <created>1680613400517</created>
@@ -147,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680965214180</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Config">
+      <created>1681440685362</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681440685362</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Config">
+      <created>1681440692780</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681440692780</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +180,7 @@
     <MESSAGE value="links" />
     <MESSAGE value="Cockpit" />
     <MESSAGE value="Cockpit &amp; Satire" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cockpit &amp; Satire" />
+    <MESSAGE value="Config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config" />
   </component>
 </project>
