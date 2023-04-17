@@ -1,1 +1,1 @@
-git pull
+sudo git pull https://github.com/MCmoderSD/MineKampf.de.git ; sudo rm -r /etc/apache2/sites-enabled/minekampf.de ; ln /var/www/minekampf.de/minekampf.de.conf /etc/apache2/sites-enabled/minekampf.de.conf ; sudo systemctl reload apache2
